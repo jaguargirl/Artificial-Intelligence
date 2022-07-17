@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Optimizare:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Optimizare_jar</output-path>
-    <root id="archive" name="Optimizare.jar">
-      <element id="module-output" name="DiscreteOptimization" />
-    </root>
-  </artifact>
-</component>
